@@ -1,0 +1,21 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "cron": "^1.1.1",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "iconv-lite": "^0.4.15",
+    "mongoose": "^4.7.0",
+    "request": "^2.79.0"
+  }
+}
