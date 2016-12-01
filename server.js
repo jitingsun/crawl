@@ -15,4 +15,6 @@ app.get('/',function (req, res) {
         res.render('index',{movies})
     });
 });
-app.listen(12315);
+app.listen(8080,function () {
+    console.log('success');
+});
